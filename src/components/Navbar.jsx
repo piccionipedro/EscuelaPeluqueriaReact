@@ -1,3 +1,4 @@
+import CartWidget from './CartWidget'
 import React from 'react'
 import styled from 'styled-components'
 
@@ -11,6 +12,7 @@ function Navbar() {
                 <a href="">Productos</a>
                 <a href="">Carreras</a>
                 <a href="">Contacto</a>
+                <a href=""><CartWidget /></a>
             </div>
         </NavContainer>
     </>
