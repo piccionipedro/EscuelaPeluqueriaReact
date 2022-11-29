@@ -1,9 +1,9 @@
 import React from "react";
-import Title from '../Navbar'
+import Title from '../Title'
 
 export const ItemListContainer = () =>{
     return (
-        <h1>50000e</h1>
+        <Title greeting='Carrito' />
     );
 }
 
