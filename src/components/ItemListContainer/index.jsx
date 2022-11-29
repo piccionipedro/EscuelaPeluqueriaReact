@@ -3,7 +3,7 @@ import Title from '../Navbar'
 
 export const ItemListContainer = () =>{
     return (
-        <h1>50000</h1>
+        <h1>50000e</h1>
     );
 }
 
